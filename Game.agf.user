@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=TomlinAnimRoom,Windows=TomlinAnimRoom,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=TomlinAnimRoom,Windows=TomlinAnimRoom,_Debug=TomlinAnimRoom,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
