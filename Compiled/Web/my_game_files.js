@@ -1,0 +1,1 @@
+var gamefiles = ['TomlinAnimRoom.ags', 'acsetup.cfg'];
